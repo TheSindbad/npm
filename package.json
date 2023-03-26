@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"body-parser": "^1.20.2",
+		"example": "^0.0.0",
+		"express": "^4.18.2",
+		"react": "^18.2.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -10,5 +13,14 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "vladimir",
+	"description": "Eto my ima",
+	"keywords": [
+		"scriive",
+		"freecodecamp",
+		"wo"
+	],
+	"license": "MIdfjglh",
+	"version": "1.1.0"
 }
